@@ -4,6 +4,7 @@
 ## Python
 * [Python For Everybody](https://www.py4e.com/book) is a great book oriented towards doing stuff with data.
 * [Whirlwind Tour of Python](https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) and [GitHub repository with notebooks](https://github.com/jakevdp/WhirlwindTourOfPython/blob/master/README.md) is a great resource for folks who know how to program in other languages or need a quick Python refresher.
+* Here is a good [comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 * Pitt also has access to [Lynda.com](http://lynda.pitt.com) which is a MASSIVE collection of videos and online learning resources, including a bunch [on Python programming](https://www.lynda.com/Programming-Languages-training-tutorials/1467-0.html?category=python_415)
     * [Learning Python](https://www.lynda.com/Python-tutorials/Learning-Python/661773-2.html?org=pitt.edu)
     * [Advanced Python](https://www.lynda.com/Python-tutorials/Advanced-Python/699337-2.html?org=pitt.edu)
